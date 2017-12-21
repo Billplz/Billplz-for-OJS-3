@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE emails SYSTEM "../../../lib/pkp/dtd/emailTemplates.dtd">
+<!--
+  * plugins/paymethod/billplz/emailTemplates.xml
+  *
+  * Email templates XML file.
+  -->
+<emails>
+	<email key="BILLPLZ_INVESTIGATE_PAYMENT" can_edit="1" can_disable="0"/>
+</emails>

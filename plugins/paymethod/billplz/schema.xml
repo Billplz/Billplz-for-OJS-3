@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE schema SYSTEM "../../../lib/pkp/dtd/xmlSchema.dtd">
+
+<!--
+  * plugins/paymethod/billplz/schema.xml
+  *
+  * Billplz plugin schema in XML.
+  -->
+
+<schema version="0.2">
+
+	<!--
+	 *
+	 * TABLE billplz_transactions
+	 *
+	 -->
+	<table name="billplz_transactions">
+		<field name="bill_id" type="C2" size="17">
+			<KEY/>
+		</field>
+		<field name="payer_email" type="C2" size="127" />
+		<field name="item_number" type="C2" size="127" />
+		<field name="payment_date" type="C2" size="127" />
+
+		<descr>Billplz transactions</descr>
+	</table>
+</schema>

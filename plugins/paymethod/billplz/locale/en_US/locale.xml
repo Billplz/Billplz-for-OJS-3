@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * plugins/paymethod/billplz/locale/en_US/locale.xml
+  *
+  -->
+
+<locale name="en_US" full_name="U.S. English">
+	<message key="plugins.paymethod.billplz.displayName">Billplz Payment Gateway</message>
+	<message key="plugins.paymethod.billplz.description">Payments will be processed using the Billplz.com</message>
+	<message key="plugins.paymethod.billplz">Billplz Payment Gateway</message>
+	<message key="plugins.paymethod.billplz.settings">Billplz Payment Settings</message>
+	<message key="plugins.paymethod.billplz.settings.billplz_api_key">API Secret Key</message>
+	<message key="plugins.paymethod.billplz.settings.billplz_collection_id">Collection ID</message>
+	<message key="plugins.paymethod.billplz.settings.billplz_x_signature">X Signature Key</message>
+	<message key="plugins.paymethod.billplz.settings.billplz_deliver">Bill Notification</message>
+	<message key="plugins.paymethod.billplz.error">You have cancelled payment!</message>
+</locale>

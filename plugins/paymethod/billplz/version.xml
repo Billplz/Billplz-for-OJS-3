@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
+
+<!--
+  * plugins/paymethod/billplz/version.xml
+  *
+  * Plugin version information.
+  -->
+<version>
+	<application>billplz</application>
+	<type>plugins.paymethod</type>
+	<release>3.0.0.0</release>
+	<date>2017-12-19</date>
+</version>
