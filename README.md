@@ -12,7 +12,7 @@ Accept payment using Billplz by using this plugin
 1. Copy **plugins** folder to your OJS **installation directory**.
 2. Set your **API Key**, **Collection ID** and **X Signature Key** on OJS as follows:
     * Settings >> Distribution >> **Payments**
-    * Don't forget to set the price and subscrition for the jounral too!
+    * Don't forget to set the price and subscrition for the journal too!
 3. Done
 
 # Notes
